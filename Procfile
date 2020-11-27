@@ -1,1 +1,1 @@
-worker: python bot/main.py
+clock: python bot/main.py
